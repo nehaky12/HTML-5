@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML-5</title>
+</head>
+<>
+    <center>
+        <h3>DETAILS TAG</h3>
+        <p>this tag is used to specify the additional details on the web page that the user can view or hide on demand.</p>
+
+    </center>
+    <hr>
+
+    <center>
+        <h3>This is summary tag</h3>
+        <p>The <b>HTML SUMMARY</b> tag is used with<b>DETAILS</b> tag. IT is used as summary ,caption or legend for the content of details element.</p>
+    </center>
+    <hr>
+
+    <details>
+        <summary>HTML</summary>
+        <h1>HTML</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, ea ipsa! Quae, sapiente earum. Repellat delectus esse libero excepturi distinctio? Quas porro mollitia distinctio asperiores facere itaque accusamus sapiente vitae.</p>
+    </details>
+
+    <details>
+        <summary>CSS</summary>
+        <h1>css</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nesciunt magnam est repudiandae ut reprehenderit atque cum perferendis eligendi, velit sit maxime unde vel quam obcaecati quo deserunt! Accusantium, beatae!</p>
+    </details>
+
+    <details>
+        <summary>JS</summary>
+        <h1>JS</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore iusto soluta ipsam sequi explicabo praesentium quae hic debitis incidunt, facere iste saepe et voluptas blanditiis accusantium minus sed, eius non.</p>
+    </details> 
+    <hr>
+    
+    
+    <center>
+        <h3>Time tag.</h3>
+        <p><b>HTML time </b> tag is used to define date and time.it displays time value in a 24 hour clock or a precise date in gregorian calendar in html</p>
+    </center> 
+    <hr>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis facere ut qui ipsa. Distinctio quo, itaque fugit ex vero voluptas, veritatis, sequi facilis dolorum repudiandae consequatur explicabo non velit voluptatibus?,2:30 PM Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam ea sit sequi, temporibus itaque facere natus fugit repudiandae! Ducimus voluptatibus non repellendus fugit. Mollitia eos itaque ab, eveniet obcaecati dolor!</p>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis facere ut qui ipsa. Distinctio quo, itaque fugit ex vero voluptas, veritatis, sequi facilis dolorum repudiandae consequatur explicabo non velit voluptatibus?,<time>2:30 PM</time> Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam ea sit sequi, temporibus itaque facere natus fugit repudiandae! Ducimus voluptatibus non repellendus fugit. Mollitia eos itaque ab, eveniet obcaecati dolor!</p>
+
+</body>
+</html>

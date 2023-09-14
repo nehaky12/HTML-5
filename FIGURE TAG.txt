@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <h1>FIGURE TAG..!</h1>
+    </center>
+    <hr>
+    <img src="assets/images/image1.jpg" height="400" alt="">
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto quae, eaque nostrum ea, eum itaque dignissimos omnis et nemo temporibus nesciunt commodi fugiat ipsa accusantium velit! Eveniet enim eligendi veritatis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti quibusdam quasi soluta beatae ipsum quidem voluptatum. Eum tempore rerum illum error deserunt adipisci laboriosam! Eum architecto explicabo temporibus ipsum molestias.</p>
+
+    <hr>
+    <input type="image" src="assets/images/image1.jpg" height="400" alt="">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt impedit minima qui dolorum fuga harum nam tempore, voluptate sunt. Deserunt autem sed dolore. Maiores sunt laudantium nostrum eum omnis quo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ut laboriosam accusantium ea omnis eius? Cum nesciunt sunt, quam mollitia in at tempore eum? Quisquam laboriosam commodi officia doloremque facere!</p>
+
+    <hr>
+
+    <figure>
+        <img src="assets/images/image 3.jpg" height="250" alt=""> 
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        <img src="assets/images/image 3.jpg" height="250" alt="">
+        
+        <figcaption>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, tenetur sapiente eum magni placeat corporis cum! Mollitia soluta sapiente iste repellendus nihil velit accusamus, ea saepe hic dolor quia illum. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis accusamus aut totam ratione nesciunt doloribus aliquid eligendi, quaerat adipisci amet corrupti praesentium pariatur necessitatibus illo aspernatur a. Fugit, atque expedita?</figcaption>
+
+    </figure>
+    
+
+</body>
+</html>

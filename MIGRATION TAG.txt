@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5</title>
+</head>
+<body>
+    <center>
+        <h1>Migration tag..!</h1>
+        <p>HTML5 migration specifies that how to migrate from HTML4 TO HTML5. lets see how to convert HTML4 PAGE into HTML5 page without any problem in content or structure</p>
+    </center>
+
+    <div id="header">
+        <li><a herf="#">Home</a></li>
+        <li><a herf="#">About Us</a></li>
+        <li><a herf="#">Contact Us</a></li>
+        <li><a herf="#">Services</a></li>
+        <li><a herf="#">Products</a></li>
+        <li><a herf="#">Login/ Register</a></li>
+    </div>
+    <hr>
+
+    <div id="menu">
+        <ul>
+            <li>Tutorials</li>
+            <li>Technology</li>
+            <li>Blog</li>
+        </ul>
+    </div>
+    <hr>
+
+    <div id="content">
+        <h2>Tutorials section</h2>
+        <div class="article">
+            <h2>Tutorial1</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, sit omnis? Neque, incidunt corrupti ipsam, est repellendus velit iure, ab modi debitis repellat corporis illum delectus voluptas cumque eius aliquam.</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium molestias a animi aut, corrupti quasi assumenda ipsum, blanditiis tenetur atque eligendi ipsa officiis culpa est! Omnis expedita atque officiis doloribus!</p>
+        </div>
+        <div class="article">
+            <h2>Tutorial2</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi vitae maxime deleniti dolores? Ullam, rem fugit cupiditate provident asperiores eius quisquam dolores modi labore obcaecati molestiae odit nesciunt excepturi similique!</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, labore soluta magnam veritatis harum iste animi aliquid! Totam ducimus cum soluta quae porro dignissimos earum, nam nulla numquam laudantium nemo!</p>
+        </div>
+    </div>
+    <hr>
+    <div id="footer">
+        <p>@ 2023 Be-practical Times. All rights reserved.</p>
+    </div>
+</body>
+</html>
